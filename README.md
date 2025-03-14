@@ -25,7 +25,7 @@ I’m a **second-year Computer Science Engineering student** with a deep passion
     <img src="contributions.jpg" alt="my github contributions">
   </a>
 </p>
----
+
 
 ## 🎖️ My Badges  
 <p align="center">
