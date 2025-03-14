@@ -21,10 +21,35 @@ I’m a **second-year Computer Science Engineering student** with a deep passion
 ---
 
 ## 📝 My Github Stats
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Tejkaur04&theme=dracula" alt="GitHub Trophies" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejkaur04&show_icons=true&locale=en&layout=donut&theme=radical" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Tejkaur04&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejkaur04&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+ismein apni id daal de meri ki jagein you will get the stats of your profile in form of badges and graph
 <p align="center">
     <img src="contributions.jpg" alt="my github contributions">
   </a>
 </p>
+
 
 
 ## 🎖️ My Badges  
