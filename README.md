@@ -1,5 +1,54 @@
-## Hi there 👋
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hey+there+%F0%9F%91%8B!;I+am+Tejinder+Kaur;A+Tech+Explorer+%F0%9F%9A%80;Finding+My+Niche)](https://git.io/typing-svg)  
+<img align="right" alt="Tejinder's Avatar" width="350px" src="tej_octocat.png" >
+I’m a **second-year Computer Science Engineering student** with a deep passion for **technology and innovation**! 🚀 My journey in tech is all about exploring new domains, constantly learning, and refining my skills to find my niche. Currently, I’m diving into **Data Structures and Algorithms in Java**, sharpening my problem-solving abilities while working on exciting real-world projects. I love the thrill of **building, debugging, and optimizing applications**—turning ideas into reality! Beyond coding, I have a creative side too—I enjoy **graphic design and UI enhancements**, because great design makes everything better! Whether it’s tackling complex problems, experimenting with new technologies, or perfecting visual details, I’m always up for a challenge!
+
+
+
+### - 📫 Email: **tejinderk.2004@gmail.com**  
+### - ⚡ Fun fact: **I have a love-hate relationship with semicolons—sometimes they save my code, sometimes they break it! 😆**  
+
+
+---
+
+## ⚒️ Languages, Frameworks & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,bootstrap,html,css,vscode,github,git,nodejs,postman,python,javascript,c,cpp,ubuntu,java" />
+</p>
+
+---
+
+## 🎖️ My Badges  
+<p align="center">
+  <a href="https://holopin.io/@tejkaur041">
+    <img src="https://holopin.me/tejkaur041" alt="@tejkaur041's Holopin board">
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Connect!  
+<!--<a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+</a>-->
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tejinder-kaur-a9b19828a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+---
+
+<!--## Hi there 👋
+# ✨ Hey there, I'm Tejinder! 👋  
+ 
+
+## 😃 About Me  
+- 🎓 Pursuing **Computer Science Engineering (CSE)** (2nd Year).  
+- 🔥 Passionate about **learning new technologies** and **exploring domains**.  
+- 🏗️ Building cool stuff, one **commit** at a time!  
+- 💻 Currently focused on **Data Structures & Algorithms in Java**.  
+- 🎨 Occasionally lost in **graphic design & UI tweaks**.-->  
 <!--
 **Tejkaur04/Tejkaur04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
