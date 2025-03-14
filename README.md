@@ -20,6 +20,13 @@ I’m a **second-year Computer Science Engineering student** with a deep passion
 
 ---
 
+## 📝 My Github Stats
+<p align="center">
+    <img src="contributions.jpg" alt="my github contributions">
+  </a>
+</p>
+---
+
 ## 🎖️ My Badges  
 <p align="center">
   <a href="https://holopin.io/@tejkaur041">
