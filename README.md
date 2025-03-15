@@ -44,7 +44,7 @@ I’m a **second-year Computer Science Engineering student** with a deep passion
   </tr>
 </table>
 
-ismein apni id daal de meri ki jagein you will get the stats of your profile in form of badges and graph
+
 <p align="center">
     <img src="contributions.jpg" alt="my github contributions">
   </a>
